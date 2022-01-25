@@ -9,7 +9,7 @@ Created by Konstantin Kotsarev on 2019-12-11
 
 #include <stdio.h>
 
-main()
+int main()
 {
   printf("hello, world\n");
 }
